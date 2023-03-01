@@ -8,13 +8,13 @@ time: "09:00:00"
 tags: ["Workshops", "Internet of things", "Incubator", "Instructors"]
 ---
 
-In the post-workshop survey, a learner responded to the question "Please provide an example of how an instructor or helper affected your learning experience" with this comment:
+In a post-workshop survey, a learner responded to the question "Please provide an example of how an instructor or helper affected your learning experience" with this comment:
 
 > I had a question that I was shy about, when they were faced with a similar issue they smiled and said, "we don't know the answer as well, let's search for it". It was really enjoyable to be around them.
 
 To [me](https://jannetta.com), as a Carpentries instructor, this is not just the epitome of a complement, but also captures the essence of our workshops.
 
-The [An Introduction to the Internet of Things (IoT)](https://carpentries-incubator.github.io/iot-novice/) lesson is still in [The Carpentries Incubator](https://carpentries-incubator.org/) and this was the second time I had the opportunity to present it. The content of this lesson, in particular, presents some big challenges. In my introduction to the workshop, I told the learners to expect things **not** to go smoothly. All the things that were going to go wrong, however, were to serve as part of the learning experience. I am sure many will nod their heads in agreement if I say that the worst thing you can do during a presentation is to try and deliver a live demo - of any sort really - because if you create an opportunity for chaos to creep in, it will. In a workshop such as this one, the laws of chaos govern.
+The [Introduction to the Internet of Things (IoT)](https://carpentries-incubator.github.io/iot-novice/) lesson is still in [The Carpentries Incubator](https://carpentries-incubator.org/) and this was the second time I had the opportunity to present it. The content of this lesson, in particular, presents some big challenges. In my introduction to the workshop, I told the learners to expect things **not** to go smoothly. All the things that were going to go wrong, however, were to serve as part of the learning experience. I am sure many will nod their heads in agreement if I say that the worst thing you can do during a presentation is to try and deliver a live demo - of any sort really - because if you create an opportunity for chaos to creep in, it will. In a workshop such as this one, the laws of chaos govern.
 
 In case you think I'm exaggerating or if you think I am silly for having been particularly nervous about this workshop, I'll share with you my experience of a few weeks ago when I decided to run an IoT taster session during our Code Community meetup. The meetup was also supposed to serve as a test-run for the one-day workshop.
 
