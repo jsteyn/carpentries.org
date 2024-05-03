@@ -40,7 +40,7 @@ We are so excited to learn about your ideas for the event!
 ### Important Information
 * The deadline for proposal submissions is the end of the day on ~~**2 April 2024**~~ **19 April**, anywhere on Earth. We will start reviewing the submitted proposals as they are received.
 * Notification of accepted proposals will be sent to participants no later than ~~20 April~~ 17 May
-* Event registration will open on ~~2 May~~ 15 June
+* Event registration will open on ~~2 May~~ 17 June
 * For updates, announcements and information about the event, please [visit the event website](https://biont-training.eu/event-details/CarpentryConnect2024) 
 * If you need any support completing the proposal submission form or have any questions, please [contact us](mailto:programme-biont@embl.de)
 
