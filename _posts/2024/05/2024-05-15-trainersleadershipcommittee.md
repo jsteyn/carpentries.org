@@ -3,7 +3,7 @@ layout: page
 authors: ["Liz Stokes", "Jon Wheeler", "Nathaniel Porter", "Annajiat Alim Rasel", "Md Intekhabul Hafiz"]
 teaser: "Meet the team and read about their goals for the year"
 title: "Introducing the new Trainers Leadership Committee for 2024"
-date: 2024-05-15
+date: 2024-05-16
 time: "09:00:00"
 tags: ["Trainers Leadership Committee", "Trainers"]
 ---
