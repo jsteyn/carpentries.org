@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Dr. Olexandr Konovalov"]
-teaser: "Overview of the current state of the Ukrainian language localisation project initiated in 2022."
+teaser: "An overview of the current state of the Ukrainian language localisation project initiated in 2022."
 title: "Translating Software Carpentry lessons into Ukrainian language: a status update"
 date: 2024-05-17
 time: "09:00:00"
@@ -9,6 +9,8 @@ tags: ["Software Carpentry", "Internationalisation", "Equity and Inclusion", "Co
 ---
 
 _This blog post was orginally published on Dr. Olexandr Konovalov's website as ["Software Carpentry for Ukraine: status update"](https://olexandr-konovalov.github.io/posts/2024/04/18/ukrainian-carpentry/). Minor modifciations in style have been made to the original so that this version is in keeping with The Carpentries blog post conventions._  
+
+-----------------------
 
 This is an overview of the current state of the project of translating
 Software Carpentry lessons into Ukrainian language. It accompanies the 
