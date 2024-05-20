@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Software Carpentry", "Internationalisation", "Equity and Inclusion", "Community"]
 ---
 
-_This blog post was orginally published on Dr. Olexandr Konovalov's website as ["Software Carpentry for Ukraine: status update"](https://olexandr-konovalov.github.io/posts/2024/04/18/ukrainian-carpentry/). Minor modifciations in style have been made to the original so that this version is in keeping with The Carpentries blog post conventions._  
+_This blog post was orginally published on Dr. Olexandr Konovalov's website as ["Software Carpentry for Ukraine: status update"](https://olexandr-konovalov.github.io/posts/2024/04/18/ukrainian-carpentry/). Minor modifications in style have been made to the original so that this version is in keeping with The Carpentries blog post conventions._  
 
 -----------------------
 
