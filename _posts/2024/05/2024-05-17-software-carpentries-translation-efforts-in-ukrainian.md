@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Dr. Olexandr Konovalov"]
+authors: ["Olexandr Konovalov"]
 teaser: "An overview of the current state of the Ukrainian language localisation project initiated in 2022."
 title: "Translating Software Carpentry lessons into Ukrainian language: a status update"
 date: 2024-05-17
