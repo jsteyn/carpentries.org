@@ -36,6 +36,9 @@ _Our Governance Structure:_ Please see the [Code of Conduct Committee (CoCc) Gov
 
 **Core Team Liaison**: [**Kari L. Jordan**](https://github.com/kariljordan) is the Executive Director at The Carpentries and serves as the [Core Team]({{site.url}}/team/) liaison to the CoC Committee.
 
+**Board of Directors Liaison**: [Jannetta Steyn](https://github.com/jsteyn) is a senior research software engineer at Newcastle university. She has been an instructor since 2020 and instructor trainer since 2021. She is also the convenor of the [CarpentriesOffline](https://carpentriesoffline.org/) development team. Jannetta is an elected member of the Board of Directors and serves as the liaison to the Code of Conduct committee.
+
+
 ### Volunteer Members
 
 [**Andrea Sánchez-Tapia**](https://github.com/AndreaSanchezTapia) is a biologist with a background in biodiversity informatics and a certified Carpentries Instructor since 2021. She has been part of Open Source communities of practice since 2017. She believes creating safe and inclusive spaces is necessary for the practice of open and responsible research.
