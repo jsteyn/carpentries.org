@@ -2,7 +2,7 @@
 layout: page
 authors: ["David Palmquist"]
 teaser: "Get Maintaing Without Leaving VS Code"
-title: "Workbench Carpentries Respository Maintenance via Visual Studio Code"
+title: "Workbench Carpentries Repository Maintenance via Visual Studio Code"
 date: 2024-05-09
 time: "06:00:00"
 tags: ["Skillshare", "Workbench", "Lesson Infrastructure", "Maintainers"]
