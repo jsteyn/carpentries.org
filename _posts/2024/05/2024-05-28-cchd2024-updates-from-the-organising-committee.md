@@ -19,7 +19,7 @@ We are happy to introduce our keynote speakers:
 
 ## 2. Provisional programme highlights
 
-After receiving and reviewing a lot of excellent proposal submissions we are finally delighted to present a diverse and engaging [provisional programme](https://biont-training.eu/event-details/conference-programme) that includes: Lightning Talks, posters, workshop sessions, breakout discussions and mini-Hackathon sessions.
+After receiving and reviewing a lot of excellent proposal submissions we are finally delighted to present a diverse and engaging [provisional programme](https://biont-training.eu/event-details/conference-programme) that includes: lightning talks, posters, workshop sessions, breakout discussions and mini-hackathon sessions.
 
 ## 3. Inclusivity Ticket registration is now open
 
