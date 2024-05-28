@@ -45,7 +45,8 @@ Applicants for Carpentries-sponsored seats will be subject to competitive select
 1. **Regional Training Opportunities.**
 
     When we bring on new Instructor Trainers, we want to be able to provide opportunities for you to teach! However, Instructor Training is a limited program. We therefore prioritize applicants who are located in time zones or geographic areas where we have established training needs or sponsorship goals. At present, this includes The Americas, Australia, New Zealand, Africa, and Europe. 
-2\. **Support for Existing Carpentries Communities.**
+
+2. **Support for Existing Carpentries Communities.**
 
     Instructor Trainers often play important roles beyond teaching Instructor Training, and this can be particularly valuable at the local level. A local Carpentries community may benefit from having someone in the region who can consult on training practices and support new Instructor trainees through the checkout process and beyond. Furthermore, Instructor Trainers from established communities can share their community practices with other regional and global Carpentries communities through this role. For these reasons, we prioritize applicants who aim to support existing local communities.
 
