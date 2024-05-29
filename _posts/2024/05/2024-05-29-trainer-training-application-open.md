@@ -27,7 +27,7 @@ In addition to the weekly meetings, trainees are asked to sit in on part of an o
 
 ## How do I apply?
 
-We are so happy you want to join us as an Instructor Trainer! The application is [here](https://carpentries.org/blog/2024/05/trainer-training-application-open/). Please apply by the end of [Wednesday, June 12 AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Trainer+Training+Application+Deadline&iso=20240612T2359&p1=1440).
+We are so happy you want to join us as an Instructor Trainer! The application is [here](https://forms.gle/nMzR7dAKnD9EfTjY6). Please apply by the end of [Wednesday, June 12 AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Trainer+Training+Application+Deadline&iso=20240612T2359&p1=1440).
 
 ## Selection Priorities
 
