@@ -53,20 +53,10 @@
   curriculum: genomics
   position: secretary
 
-- name: Jeff Hollister
-  github: jhollist
-  curriculum: geospatial
-  position: chair
-
 - name: Naupaka Zimmerman
   github: naupaka
   curriculum: genomics
   position: chair
-
-- name: Jeff Hollister
-  github: jhollist
-  curriculum: geospatial
-  position: co-chair
 
 - name: Justin Fain
   github: fainjj
@@ -98,35 +88,10 @@
   curriculum: library
   position: member
 
-- name: Phil Reed
-  github: PhilReedData
-  curriculum: library
-  position: member
-
 - name: Tim Dennis
   github: jt14den
   curriculum: library
   position: chair
-
-- name: Annajiat Alim Rasel
-  github: annajiat
-  curriculum: software
-  position: member
-
-- name: James Balamuta
-  github: coatless
-  curriculum: software
-  position: member
-
-- name: Menglan Xiang
-  github: mxiang1
-  curriculum: software
-  position: member
-
-- name: Rich McCue
-  github: richmccue
-  curriculum: software
-  position: member
 
 - name: Stephen Appel
   github: srappel
@@ -176,44 +141,4 @@
 - name: Ulf Schiller
   github: uschille
   curriculum: image
-  position:  chair
-
-- name: Claudia Engel
-  github: cengel
-  curriculum: socialsci
-  position: member
-
-- name: Daniel Woulfin
-  github: dswoulf
-  curriculum: socialsci
-  position: member
-
-- name: Eirini Zormpa
-  github: eirini-zormpa
-  curriculum: socialsci
-  position: member
-
-- name: Macarena Quiroga
-  github: msquiroga89
-  curriculum: socialsci
-  position: secretary
-
-- name: Nathaniel Porter
-  github: ndporter
-  curriculum: socialsci
-  position: chair
-
-- name: Julieta Arancio
-  github: thessaly
-  curriculum: socialsci
-  position: member
-
-- name: Alex Pakalniskis
-  github: alex-pakalniskis
-  curriculum: software
-  position: member
-
-- name: Georgina Pegu
-  github: Gina123-P
-  curriculum: software
   position:  chair
