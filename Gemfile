@@ -10,3 +10,6 @@ end
 if Gem::Version.new(RUBY_VERSION) >= Gem::Version.new('3.0.0')
     gem 'webrick', '>= 1.6.1'
 end
+
+# Fix for mismatched deps: https://github.com/ffi/ffi/issues/1103
+gem "ffi", "< 1.17.0"
