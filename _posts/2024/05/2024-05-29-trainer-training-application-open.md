@@ -7,7 +7,7 @@ date: 2024-05-29
 time: "00:00:00"
 tags: ["Instructor Development", "Instructor Trainers", "Trainer Training"]
 ---
-**This blogpost has been updated**
+**This blogpost has been updated to extend the application deadline**
 
 Do you look back fondly on your Instructor Training and think, "I would love to teach that!"? Do you want to help people learn to be more effective teachers, while continuing to develop your own teaching skill through regular engagement with our Instructor Training curriculum? Maybe you are looking for another way to get involved and give back to The Carpentries community. If any of these describe you, consider joining our vibrant community of Instructor Trainers!
 
