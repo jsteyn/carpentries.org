@@ -2,11 +2,12 @@
 layout: page
 authors: ["SherAaron Hurt", "Erin Becker"]
 teaser: "Do you want to teach others to develop skills and confidence as Carpentries Instructors? Become an Instructor Trainer!"
-title: "Applications Now Open for Carpentries Instructor Trainer Training Starting July 2024"
+title: "Applications Now Open for Carpentries Instructor Trainer Training Starting August 2024"
 date: 2024-05-29
 time: "00:00:00"
 tags: ["Instructor Development", "Instructor Trainers", "Trainer Training"]
 ---
+**This blogpost has been updated**
 
 Do you look back fondly on your Instructor Training and think, "I would love to teach that!"? Do you want to help people learn to be more effective teachers, while continuing to develop your own teaching skill through regular engagement with our Instructor Training curriculum? Maybe you are looking for another way to get involved and give back to The Carpentries community. If any of these describe you, consider joining our vibrant community of Instructor Trainers!
 
@@ -27,7 +28,7 @@ In addition to the weekly meetings, trainees are asked to sit in on part of an o
 
 ## How do I apply?
 
-We are so happy you want to join us as an Instructor Trainer! The application is [here](https://forms.gle/nMzR7dAKnD9EfTjY6). Please apply by the end of [Wednesday, June 12 AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Trainer+Training+Application+Deadline&iso=20240612T2359&p1=1440).
+We are so happy you want to join us as an Instructor Trainer! The application is [here](https://forms.gle/nMzR7dAKnD9EfTjY6). Please apply by the end of [Wednesday, June 18 AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Trainer+Training+Application+Deadline&iso=20240612T2359&p1=1440).
 
 ## Selection Priorities
 
