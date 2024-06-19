@@ -16,7 +16,7 @@ We are pleased to announce that our most recent cohort of Lesson Maintainers hav
 - Becoming familiar with the key components of the lesson template
 - Learning how and when to elevate issues to the Curriculum Advisory Committee
 
-New and existing Maintainers were also invited to join a two hour [GitHub Skill-up](), aiming to teach them how to:
+New and existing Maintainers were also invited to join a two hour [GitHub Skill-up](https://carpentries.github.io/github-skill-up-maintainers/), aiming to teach them how to:
 
 - Manage issues more effectively with labels, referencing, and automatic closure
 - Use GitHub’s comment and suggestion features to review pull requests
