@@ -162,7 +162,7 @@ more rarely for [consideration as a new lesson program][lesson-prog-incubation].
 [cldt-curriculum]: https://carpentries.github.io/lesson-development-training/
 [income-categorisation]: https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html
 [incubator]: https://carpentries-incubator.org/
-[jose]: jose.theoj.org/
+[jose]: https://jose.theoj.org/
 [lab]: https://carpentries-lab.org/
 [lesson-prog-incubation]: https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-incubation-roadmap
 [workbench]: https://carpentries.github.io/workbench/
