@@ -3,7 +3,7 @@ layout: page
 authors: ["The CCHD24 Organising Committee"]
 teaser: "A draft programme has also been updated for the November community event in Germany."
 title: "Registration Open for CarpentryConnect Heidelberg"
-date: 2024-06-24
+date: 2024-06-25
 time: "09:00:00"
 tags: ["CarpentryConnect", "Events"]
 ---
